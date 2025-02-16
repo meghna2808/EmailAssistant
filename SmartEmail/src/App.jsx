@@ -30,7 +30,7 @@ function App() {
   return (
     <>
       <Container maxwidth="md" sx={{py:4}}>
-        <Typography variant='h3'component='h1' gutterBottom>
+        <Typography variant='h3'component='h1'  align="center" gutterBottom >
           Email Reply Generator
         </Typography>
         <Box sx={{max:3}}>
