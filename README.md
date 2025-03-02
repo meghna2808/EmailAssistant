@@ -72,12 +72,4 @@ npm start
 - Reduced UI load times by **40%**.
 - Efficient handling of **100+ concurrent requests**.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For queries, feel free to reach out via [GitHub Issues](https://github.com/your-repo/issues).
 
